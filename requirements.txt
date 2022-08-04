@@ -1,0 +1,4 @@
+loguru==0.6.0
+undetected-chromedriver==3.1.5.post4
+selenium==4.3.0
+web3==5.30.0
